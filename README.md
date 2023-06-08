@@ -1,17 +1,17 @@
 # Bioinformatics and Practice 1 Project
-2023-spring
+2023-spring<br>
 Seongeun Kim
 
----
+
 ## Gene Ontology Enrichment Analysis (GOEA)
 All the code and data related to this project is in `./project` directory.
 
 ### Tools
-- g:Convert
+- g:Convert<br>
   Used to map ensembl gene id to gene symbol
-- g:Profiler
+- g:Profiler<br>
   Used to perform GO analysis
-- Enrichr
+- Enrichr<br>
   Used to perform variety of enrichment analysis
 
 ### Data
@@ -36,5 +36,5 @@ All the code and data related to this project is in `./project` directory.
 ---
 
 Reference
-- LIN28A Is a Suppressor of ER-Associated Translation in Embryonic Stem Cells 
+- LIN28A Is a Suppressor of ER-Associated Translation in Embryonic Stem Cells<br>
   Cho, Jun et al. Cell, Volume 151, Issue 4, 765 - 777
